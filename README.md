@@ -1,20 +1,37 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Dicee 🎲
 
-## Our Goal
+<!-- TABLE OF CONTENTS -->
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
+## Table of Contents
 
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+  - [Run App](#run-app)
+  - [Further Help](#further-help)
+- [What I will learn](#what-i-will-learn)
+- [Roadmap](#roadmap)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-## What you will create
+<!-- ABOUT THE PROJECT -->
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
+## About The Project
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. This is project is to practice flutter and learn having fun! In this app I will learn how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
-## What you will learn
+### Built With
+
+- [Flutter](https://flutter.dev/)
+
+### Run App
+
+Run `flutter run` to build the project. the project will be running on a virtual device.
+
+### Further help
+
+Visit the [Flutter docs](https://flutter.dev/docs).
+
+## What I will learn
 
 - How to use Flutter stateless widgets to design the user interface.
 - How to use Flutter stateful widgets to update the user interface.
@@ -26,6 +43,23 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+<!-- ROADMAP -->
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+## Roadmap
+
+See the [open issues](https://github.com/Bruno-Cerqueira/dice-flutter/issues) for a list of proposed features (and known issues).
+
+<!-- CONTACT -->
+
+## Contact
+
+Bruno Cerqueira - brunocerqueirasd@gmail.com
+
+Project Link: [https://github.com/Bruno-Cerqueira/dice-flutter](https://github.com/Bruno-Cerqueira/dice-flutter)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+[Amaizing flutter course](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+[Based Github project](https://github.com/londonappbrewery/dicee-flutter)
